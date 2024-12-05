@@ -1,1 +1,1 @@
-This are my visulization projects
+This are my visualization projects
